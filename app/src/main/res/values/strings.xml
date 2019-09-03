@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nearme</string>
+    <string name="url_loginbackground" translatable="false">
+        https://previews.123rf.com/images/mix3r/mix3r1505/mix3r150500143/39763212-concepto-de-fondo-de-viajes-mundial-avi%C3%B3n-iconos-planos-image-holidays-concepto-de-turismo-y-vacation-s.jpg
+    </string>
+    <string name="mail_enterprise" translatable="false">
+        smartsolutionsupc@gmail.com
+    </string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+    <!-- NAV-Menu -->
+    <string name="nav_title_maps">Map</string>
+    <string name="nav_title_account">Account</string>
+    <string name="nav_title_settings">Settings</string>
+    <!-- Login Activity -->
+    <string name="login_label_user_name">USER NAME</string>
+    <string name="login_label_password">PASSWORD</string>
+    <string name="login_label_forgot_password">Forgot your password?</string>
+    <string name="login_button_sign_in">SIGN IN</string>
+    <string name="login_check_box_remember_me">Remember me</string>
+    <!-- Account Fragment and Activity -->
+    <string name="login_label_have_an_account">You don\'t have an account? </string>
+    <string name="login_label_create_an_account">Create an account</string>
+    <!-- Account Fragment -->
+    <string name="account_label_title_my_account">My Account</string>
+    <string name="account_label_no_preferences">You do not have preferences</string>
+    <!-- Account Fragment, Activity and Create Account Activity -->
+    <string name="account_label_full_name">Full Name</string>
+    <string name="account_label_email">Email</string>
+    <string name="account_label_password">Password</string>
+    <string name="account_label_gender">Gender</string>
+    <string name="account_label_username">User name</string>
+    <!-- Account Fragment, Activity-->
+    <string name="account_label_edit">Edit</string>
+    <string name="account_label_add_preference">Add preferences</string>
+    <!--Edit Account Activity-->
+    <string name="edit_account_label_title_my_account">My Account - Edit</string>
+    <!--Edit Account ans Create Account Activity -->
+    <string name="edit_account_label_male">Male</string>
+    <string name="edit_account_label_female">Female</string>
+    <string name="edit_account_label_save">Save</string>
+    <!-- Settings Fragment -->
+    <string name="settings_label_search_range">Search Range</string>
+    <string name="settings_label_map_style">Map Style</string>
+    <string name="settings_label_save">Save</string>
+    <string name="settings_label_preferences">Preferences</string>
+
+    <!-- Comment Activity -->
+    <string name="comment_label_write">Write a comment here</string>
+    <string name="comment_label_button">Comment</string>
+
+    <!-- Enterprise Activity -->
+    <string name="enterprise_label_name">Name</string>
+    <string name="enterprise_label_address">Address</string>
+    <string name="enterprise_label_button">Write a comment</string>
+
+
+
+    <!-- Common placeholders -->
+    <string name="placeholder_full_name">Your full name</string>
+    <string name="placeholder_user_name">Your user name</string>
+    <string name="placeholder_email">Your email</string>
+    <string name="placeholder_password">Your password</string>
+    <string name="placeholder_comment">Write a commen</string>
+    <!-- Common Error label -->
+    <string name="error_label_full_name">full name can not be null or empty</string>
+    <string name="error_label_email">invalid email address</string>
+    <string name="error_label_password">password can not be null or empty</string>
+    <string name="error_label_full_name_size">minimum 4 characters</string>
+    <string name="error_label_user_name_size">minimum 4 characters</string>
+    <string name="error_label_password_size">"minimum 7 characters"</string>
+    <string name="error_label_general">invalid username or password</string>
+    <string name="error_label_username">username can not be null or empty</string>
+    <string name="error_label_comment">comment can not be null or empty</string>
+    <string name="error_label_comment_size">minimum 8 characters</string>
+    <!-- Notification -->
+    <string name="notifications_success">success</string>
+    <string name="notifications_fail">fail</string>
+    <!-- Messages -->
+    <string name="message_exit">Exit</string>
+    <string name="message_are_you_sure">Are you sure?</string>
+    <!-- Api Key -->
+    <string name="nearme_api_key" translatable="false">eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzbWFydHNvbHV0aW9udXBjIiwicm9sZXMiOlsiVVNFUiJdLCJpYXQiOjE1NTkyODU1MTYsImV4cCI6MTU2MTg3NzUxNn0.xJRaMeNjuDZD6LO5v78_qG_ujTkElge14MuczsSC7cI</string>
+</resources>
