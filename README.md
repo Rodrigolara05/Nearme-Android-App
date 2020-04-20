@@ -9,9 +9,9 @@ Esta aplicación movil realiza consulta a un API REST [[Github]](https://github.
 ## Demostración 📹
 
 <p align="center">
-<img src="https://github.com/Rodrigolara05/Nearme-Android-App/blob/master/README-images/Settings-View.png" width="200" />
-<img src="https://github.com/Rodrigolara05/Nearme-Android-App/blob/master/README-images/Login-View.png" width="200" />
-<img src="https://github.com/Rodrigolara05/Nearme-Android-App/blob/master/README-images/Map-View.png" width="200" />
+<img src="https://github.com/Rodrigolara05/Nearme-Android-App/blob/master/README-images/Settings-View.jpg" width="200" />
+<img src="https://github.com/Rodrigolara05/Nearme-Android-App/blob/master/README-images/Login-View.jpg" width="200" />
+<img src="https://github.com/Rodrigolara05/Nearme-Android-App/blob/master/README-images/Map-View.jpg" width="200" />
 </p>
 
 ## IDE 📌
