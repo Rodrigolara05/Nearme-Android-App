@@ -2,9 +2,9 @@
 
 ## Comenzando 🚀
 
-Nearme es una aplicación desarrollada nativamente para Android y iOS [Github](), esta enfocada para las empresas de transporte de turismo, que puedan dar a sus clientes una aplicación personalizada de los lugares en los que puedan tener beneficios y descuentos, asi como ver los comentarios de otros usuarios que han tomado el mismo servicio.  
+Nearme es una aplicación desarrollada nativamente para Android y iOS [[Github]](https://github.com/Rodrigolara05/Nearme-IOS-App), esta enfocada para las empresas de transporte de turismo, que puedan dar a sus clientes una aplicación personalizada de los lugares en los que puedan tener beneficios y descuentos, asi como ver los comentarios de otros usuarios que han tomado el mismo servicio.  
 
-Esta aplicación movil realiza consulta a un API REST [Github](https://git-scm.com/), asi como usa los servicios de google, como el mapa y realiza un almacenamiento en el dispositivo con Sugar ORM 
+Esta aplicación movil realiza consulta a un API REST [[Github]](https://github.com/Rodrigolara05/Nearme-API-Restful-App), asi como usa los servicios de google, como el mapa y realiza un almacenamiento en el dispositivo con Sugar ORM 
 
 ## Demostración 📹
 
